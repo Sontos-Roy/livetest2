@@ -25,6 +25,5 @@
   
   <script setup>
   import { ref } from 'vue';
-  
   const { show, close } = props;
   </script>
